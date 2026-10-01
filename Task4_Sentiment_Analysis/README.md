@@ -1,59 +1,51 @@
-**LEVEL 1 — TASK 4**
+# Sentiment Analysis
 
-**SENTIMENT ANALYSIS**
+## Project Overview
 
-**Project Overview**
+This project focuses on performing sentiment analysis on textual data using Python and Natural Language Processing (NLP) techniques.
 
-This project focuses on performing sentiment analysis on a dataset containing text-based social media data. The objective is to preprocess textual data, extract meaningful features using TF-IDF, and develop machine-learning models to classify text into broad sentiment categories.
+The objective is to analyze text data and classify the sentiment expressed in the text. The project includes data preprocessing, text analysis, feature extraction, model training, and evaluation.
 
-**Objective**
+## Objectives
 
-The main objectives of this project are:
+- Understand and inspect the text dataset.
+- Clean and preprocess textual data.
+- Convert text into numerical features.
+- Train a machine learning model for sentiment classification.
+- Evaluate the performance of the model.
+- Analyze the sentiment classification results.
 
-- To inspect and understand the given sentiment dataset.
-- To clean and preprocess the text data.
-- To analyze the distribution of sentiment categories.
-- To transform text into numerical features using TF-IDF.
-- To train and evaluate two machine-learning classification models.
-- To compare model performance using appropriate evaluation metrics.
-- To perform error analysis on the model predictions.
-
-### Dataset Overview
-
-The dataset contains **732 records and 15 columns**. Important columns include:
-
-- `Text` — the original text data.
-- `Sentiment` — the original detailed sentiment/emotion label.
-- `Timestamp` — timestamp associated with the text.
-- `Platform` — platform information.
-- `Hashtags` — hashtags associated with the text.
-- `Retweets` — number of retweets.
-- `Likes` — number of likes.
-- `Country` — country information.
-
-The original sentiment column contained a large number of detailed emotion labels. After removing unnecessary whitespace, **191 distinct sentiment labels** were identified.
-
-For practical classification, the detailed sentiment labels were grouped into three broad categories:
-
-- **Positive**
-- **Neutral**
-- **Negative**
-
-The original detailed sentiment labels were preserved separately in `Sentiment_Original`.
-
-### Tools and Technologies
+## Technologies Used
 
 - Python
-- Google Colab
 - Pandas
 - NumPy
-- Matplotlib
-- Seaborn
 - Scikit-learn
-- TF-IDF
-- Logistic Regression
-- Multinomial Naive Bayes
+- Natural Language Processing (NLP)
+- Jupyter Notebook / Google Colab
 
-### Project Workflow
+## Analysis Performed
 
-**Data Loading → Data Inspection → Sentiment Analysis → Data Cleaning → Text Preprocessing → Train/Test Split → TF-IDF → Model Training → Model Evaluation → Model Comparison → Error Analysis → Conclusion**
+The project includes:
+
+1. Dataset inspection
+2. Data preprocessing
+3. Text cleaning
+4. Feature extraction
+5. Sentiment classification
+6. Model training
+7. Model evaluation
+8. Result analysis
+
+## Project Files
+
+- Sentiment Analysis `.ipynb` – Complete analysis and machine learning workflow
+- `.csv` dataset – Dataset used for sentiment analysis
+
+## Key Outcome
+
+The project demonstrates how Natural Language Processing and machine learning can be used to identify sentiment patterns in textual data.
+
+## Internship
+
+This project was completed as part of the **Oasis Infobyte Internship Program – Data Analytics Track**.
