@@ -1,4 +1,4 @@
-# House Price Prediction
+# Boston House Price Prediction
 
 ## Project Overview
 
@@ -40,7 +40,7 @@ The project includes:
 
 ## Project Files
 
-- House Price Prediction `.ipynb` – Complete analysis and machine learning workflow
+- Boston House Price Prediction `.ipynb` – Complete analysis and machine learning workflow
 - `.csv` dataset – Dataset used for the prediction model
 
 ## Key Outcome
