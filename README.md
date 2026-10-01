@@ -22,7 +22,7 @@ Performed exploratory analysis of retail transaction data to identify:
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-[View Task 1 Project](./Task1_Retail_Sales_EDA)
+[View Level 1 Task 1 Project](./Task1_Retail_Sales_EDA)
 
 ### Level 1 – Task 4
 
@@ -32,7 +32,7 @@ Performed sentiment analysis on textual data using Natural Language Processing (
 
 **Tools:** Python, Pandas, Scikit-learn, NLP
 
-[View Task 4 Project](./Task4_Sentiment_Analysis)
+[View Level 1 Task 4 Project](./Task4_Sentiment_Analysis)
 
 ### Level 2 – Task 1
 
@@ -61,3 +61,4 @@ Developed a Linear Regression model to predict house prices using relevant featu
 **Organization:** Oasis Infobyte  
 **Program:** Data Analytics Internship  
 **Repository:** OIBSIP
+
