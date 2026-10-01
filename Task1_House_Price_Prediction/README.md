@@ -1,3 +1,4 @@
+
 # Boston House Price Prediction
 
 ## Project Overview
@@ -8,13 +9,26 @@ This project focuses on predicting house prices using machine learning technique
 
 - Inspect and understand the housing dataset.
 - Perform data preprocessing and cleaning.
-- Explore relationships between features and house prices.
+- Explore relationships between housing features and prices.
 - Select relevant features for prediction.
 - Build a Linear Regression model.
 - Evaluate the model's performance.
 - Analyze the prediction results.
 
-## Technologies Used
+## Steps Performed
+
+1. Loaded and inspected the housing dataset.
+2. Examined the dataset structure, features, and target variable.
+3. Performed data preprocessing and prepared the data for modeling.
+4. Explored relationships between relevant features and house prices.
+5. Selected features for the prediction model.
+6. Split the data into training and testing sets.
+7. Trained a Linear Regression model.
+8. Generated house price predictions using the trained model.
+9. Evaluated the model using appropriate evaluation metrics.
+10. Analyzed the model results and predictions.
+
+## Tools Used
 
 - Python
 - Pandas
@@ -24,28 +38,23 @@ This project focuses on predicting house prices using machine learning technique
 - Scikit-learn
 - Jupyter Notebook / Google Colab
 
-## Methodology
+## Model Used
 
-The project includes:
+**Linear Regression**
 
-1. Dataset loading and inspection
-2. Data preprocessing
-3. Exploratory Data Analysis
-4. Feature selection
-5. Train-test split
-6. Linear Regression model training
-7. House price prediction
-8. Model evaluation
-9. Result analysis
+Linear Regression was used to model the relationship between selected housing features and the target house price.
+
+## Outcome
+
+The project demonstrates how machine learning can be applied to housing data to predict house prices based on relevant property features.
+
+The complete workflow covers data preparation, exploratory analysis, feature selection, model training, prediction, and model evaluation.
 
 ## Project Files
 
-- Boston House Price Prediction `.ipynb` – Complete analysis and machine learning workflow
-- `.csv` dataset – Dataset used for the prediction model
-
-## Key Outcome
-
-The project demonstrates how machine learning can be used to analyze housing data and predict house prices based on relevant property features.
+- `Level2,Task1_Boston_Housing_Price_Prediction_Using_Machine_Learning.ipynb` – Complete prediction notebook
+- `4) house Prediction Data Set.csv` – Dataset used for the project
+- `README.md` – Project documentation
 
 ## Internship
 
