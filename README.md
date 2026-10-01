@@ -4,7 +4,9 @@ This repository contains my projects completed as part of the **Oasis Infobyte I
 
 ## About the Internship
 
-The internship focuses on applying data analytics and machine learning techniques to real-world datasets. The projects involve data exploration, visualization, statistical analysis, machine learning, and interpretation of results.
+The internship focuses on applying data analytics, data visualization, Natural Language Processing, and machine learning techniques to real-world datasets.
+
+The projects demonstrate practical skills in data cleaning, exploratory data analysis, statistical analysis, visualization, NLP, machine learning, and interpretation of results.
 
 ## Completed Projects
 
@@ -12,17 +14,13 @@ The internship focuses on applying data analytics and machine learning technique
 
 **Retail Sales Data Analysis – Exploratory Data Analysis (EDA)**
 
-Performed exploratory analysis of retail transaction data to identify:
-
-- Sales trends across months and quarters
-- Customer demographics
-- Product category performance
-- Relationships between numerical variables
-- Differences in average transaction value across age groups
+Analyzed retail transaction data to understand sales trends, customer demographics, product category performance, and purchasing behavior.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
 [View Level 1 Task 1 Project](./Task1_Retail_Sales_EDA)
+
+---
 
 ### Level 1 – Task 4
 
@@ -30,9 +28,11 @@ Performed exploratory analysis of retail transaction data to identify:
 
 Performed sentiment analysis on textual data using Natural Language Processing (NLP) and machine learning techniques.
 
-**Tools:** Python, Pandas, Scikit-learn, NLP
+**Tools:** Python, Pandas, NumPy, Scikit-learn, NLP
 
 [View Level 1 Task 4 Project](./Task4_Sentiment_Analysis)
+
+---
 
 ### Level 2 – Task 1
 
@@ -53,12 +53,22 @@ Developed a Linear Regression model to predict house prices using relevant featu
 - Natural Language Processing
 - Machine Learning
 - Linear Regression
+- Feature Analysis
 - Data Interpretation
 - Business Insights and Recommendations
+
+## Project Documentation
+
+Each project folder contains:
+
+- Project README
+- Jupyter Notebook
+- Dataset used for the project
+
+The individual README files provide the project objective, steps performed, tools used, key findings, and outcome.
 
 ## Internship
 
 **Organization:** Oasis Infobyte  
 **Program:** Data Analytics Internship  
 **Repository:** OIBSIP
-
