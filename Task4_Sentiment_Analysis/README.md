@@ -2,20 +2,33 @@
 
 ## Project Overview
 
-This project focuses on performing sentiment analysis on textual data using Python and Natural Language Processing (NLP) techniques.
+This project focuses on analyzing textual data and identifying the sentiment expressed in the text using Natural Language Processing (NLP) and machine learning techniques.
 
-The objective is to analyze text data and classify the sentiment expressed in the text. The project includes data preprocessing, text analysis, feature extraction, model training, and evaluation.
+The project demonstrates how text data can be processed, converted into numerical features, and used to build a sentiment classification model.
 
 ## Objectives
 
 - Understand and inspect the text dataset.
 - Clean and preprocess textual data.
 - Convert text into numerical features.
-- Train a machine learning model for sentiment classification.
-- Evaluate the performance of the model.
+- Build a machine learning model for sentiment classification.
+- Evaluate the model performance.
 - Analyze the sentiment classification results.
 
-## Technologies Used
+## Steps Performed
+
+1. Loaded and inspected the sentiment dataset.
+2. Examined the structure and contents of the text data.
+3. Preprocessed and cleaned the textual data.
+4. Prepared the text data for machine learning.
+5. Converted text into numerical features.
+6. Split the dataset into training and testing data.
+7. Trained a machine learning model for sentiment classification.
+8. Generated sentiment predictions on the test data.
+9. Evaluated the model using appropriate performance metrics.
+10. Analyzed the classification results.
+
+## Tools Used
 
 - Python
 - Pandas
@@ -24,27 +37,17 @@ The objective is to analyze text data and classify the sentiment expressed in th
 - Natural Language Processing (NLP)
 - Jupyter Notebook / Google Colab
 
-## Analysis Performed
+## Outcome
 
-The project includes:
+The project demonstrates how Natural Language Processing and machine learning techniques can be used to classify sentiment from textual data.
 
-1. Dataset inspection
-2. Data preprocessing
-3. Text cleaning
-4. Feature extraction
-5. Sentiment classification
-6. Model training
-7. Model evaluation
-8. Result analysis
+The workflow covers the complete process from text preprocessing and feature extraction to model training, prediction, and evaluation.
 
 ## Project Files
 
-- Sentiment Analysis `.ipynb` – Complete analysis and machine learning workflow
-- `.csv` dataset – Dataset used for sentiment analysis
-
-## Key Outcome
-
-The project demonstrates how Natural Language Processing and machine learning can be used to identify sentiment patterns in textual data.
+- `Level_1,_Task4_Sentiment_Analysis.ipynb` – Complete sentiment analysis notebook
+- `3) Sentiment dataset.csv` – Dataset used for the analysis
+- `README.md` – Project documentation
 
 ## Internship
 
