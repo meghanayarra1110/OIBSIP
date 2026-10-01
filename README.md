@@ -28,17 +28,21 @@ Performed exploratory analysis of retail transaction data to identify:
 
 **Sentiment Analysis**
 
-Performed sentiment analysis on textual data using natural language processing and machine learning techniques.
+Performed sentiment analysis on textual data using Natural Language Processing (NLP) and machine learning techniques.
 
 **Tools:** Python, Pandas, Scikit-learn, NLP
+
+[View Task 4 Project](./Task4_Sentiment_Analysis)
 
 ### Level 2 – Task 1
 
 **House Price Prediction**
 
-Developed a linear regression model to predict house prices using relevant features from a housing dataset.
+Developed a Linear Regression model to predict house prices using relevant features from a housing dataset.
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+
+[View Level 2 Task 1 Project](./Task1_House_Price_Prediction)
 
 ## Skills Demonstrated
 
