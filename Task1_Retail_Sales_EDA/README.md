@@ -1,4 +1,3 @@
-Level 1 - Task 1
 # Retail Sales Data Analysis – Exploratory Data Analysis (EDA)
 
 ## Project Overview
